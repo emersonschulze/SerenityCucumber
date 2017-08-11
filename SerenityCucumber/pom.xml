@@ -85,13 +85,22 @@
     <build>
         <plugins>
         
+      
         
-            <plugin>
+       	 <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>2.18.1</version>
                 <configuration>
-                    <skip>true</skip>
+                <argLine>-Xmx1024m</argLine>
+                <systemPropertyVariables>
+                    <jira.url>http://jira.codeitsolutions.com.br</jira.url>
+                    <jira.username>${emerson.schulze}</jira.username>
+                    <jira.password>${Codeit01}</jira.password>
+                    <build.id>${env.BUILD_ID}</build.id>
+                    <thucydides.public.url>http://localhost:9000</thucydides.public.url>
+                </systemPropertyVariables>
+                  
                 </configuration>
             </plugin>
             <plugin>

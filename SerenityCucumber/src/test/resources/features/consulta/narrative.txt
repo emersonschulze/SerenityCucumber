@@ -1,4 +1,4 @@
-Procurando Seguradora
-Em uma busca aleatória 
-Entrei em um site de seguros
-validando algumas informações apresentadas
+Pesquisando por Sulamerica
+    Realizo uma busca por seguradora
+    A fim de conhecer as empresas
+    Para escolher uma seguradora

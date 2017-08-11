@@ -8,24 +8,22 @@ Funcionalidade: Realizar as 4 funções basicas da calculadora.
   uma multiplicação 
   uma divisão
 
-  Cenario: Adição
-    Dado o numero '2'
-		Quando Temos o número '5'
-		Entao temos o resultado da adicao '7'
+    Cenario: Somar dois numeros
+    Dado eu tenho o numero 1 e 2
+    Quando eu quero somar
+    Entao eu quero como resultado o numero 3
 
-  Cenario: Subtração
-    Dado o numero '5'
-		Quando Temos o número '4'
-		Entao Temos o resultado da subtracao '1'
-		
-  Cenario: Multiplicação
-    Dado o numero '2'
-		Quando Temos o número '5'
-		Entao Temos o resultado da multiplicacao '10'
-		
-  Cenario: Divisão
-    Dado o numero '10'
-		Quando Temos o número '2'
-		Entao Temos o resultado da divisao'5'
-				
-		
+  Cenario: Subtrair dois numeros
+    Dado eu tenho o numero 2 e 1
+    Quando eu quero subtrair
+    Entao eu quero como resultado o numero 1
+
+ Cenario: Multiplicar dois numeros
+    Dado eu tenho o numero 2 e 1
+    Quando eu quero multiplicar
+    Entao eu quero como resultado o numero 2
+
+ Cenario: Dividir dois numeros
+    Dado eu tenho o numero 2 e 1
+    Quando eu quero dividir
+    Entao eu quero como resultado o numero 2

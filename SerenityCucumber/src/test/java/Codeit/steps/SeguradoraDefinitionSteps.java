@@ -32,5 +32,4 @@ public class SeguradoraDefinitionSteps {
 		seguradora.assertExisteTexto(texto);
 	}
 
-
 }

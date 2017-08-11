@@ -1,2 +1,7 @@
-Realizando teste unitários
-simulando uma calculadora
+Realizando teste unitarios de calculadora
+
+Realizar ações de:
+  uma adição
+  uma subtração
+  uma multiplicação 
+  uma divisão

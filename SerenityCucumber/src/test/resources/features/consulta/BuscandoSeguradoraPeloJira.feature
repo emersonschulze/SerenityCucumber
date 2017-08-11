@@ -1,8 +1,8 @@
 #language: pt
-@BuscaSeguradora
-Funcionalidade: Buscando o nome e a pagina de uma Seguradora.
+@BuscaSeguradoraJira
+Funcionalidade: BuscandoSeguradora
  
-  Contexto: Pesquisando por Sulamerica
+  Contexto: Pesquisando por Sulamérica
     Realizo uma busca por seguradora
     A fim de conhecer as empresas
     Para escolher uma seguradora

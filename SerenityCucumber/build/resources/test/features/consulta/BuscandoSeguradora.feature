@@ -11,4 +11,4 @@ Funcionalidade: BuscandoSeguradora
   Cenario: Analisando resultado
     Dado a pesquisa clico no link 'SulAmérica: Seguro de Vida, Auto, Saúde, Residencial e Previdência'
     Quando ao acessar a pagina encontro o texto 'PEÇA PARA O SEU CORRETOR OU SOLICITE UMA COTAÇÃO'
-    Entao e verifico que contém o a informação de 'DESCONTÔMETRO'
+    Entao e verifico que contém o a informação de 'SulAmérica'
