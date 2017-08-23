@@ -3,9 +3,7 @@ package Business;
 public class CalculadoraCore {
 
 	public int somar(Integer valorA, Integer valorB){
-		
-		
-	return valorA + valorB;
+		return valorA + valorB;
 	}	
 	
 	public int subtrair(Integer valorA, Integer valorB){
